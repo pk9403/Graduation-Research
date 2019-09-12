@@ -1,0 +1,499 @@
+first name,last name,player,position,TEAM,Games,Gamestarted,Minutes,Goals,Assists,ShotsonGoal,Shots,YellowCards,RedCards,Foulsuffered,Foulscommitted,Offsides,Crosses,CornerKicks,PenaltyGoal,Penaltykicks
+ Pierre-Emerick,Aubameyang, Pierre-Emerick Aubameyang,F,arsenal,36,30,2116,22,4,39,94,0,0,14,11,22,70,1,4,1
+ Alexandre,Lacazette, Alexandre Lacazette,F,arsenal,35,27,1880,13,8,32,83,2,0,38,33,22,44,0,0,-
+ Alex,Iwobi, Alex Iwobi,F,arsenal,35,22,1646,3,6,14,34,0,0,12,5,2,90,1,0,-
+ Lucas,Torreira, Lucas Torreira,M,arsenal,34,24,1856,2,2,6,26,7,1,57,28,0,35,18,0,-
+ Matteo,Guendouzi, Matteo Guendouzi,M,arsenal,33,23,1751,0,0,4,17,9,0,50,22,0,26,2,0,-
+ Bernd,Leno, Bernd Leno,G,arsenal,32,31,2610,0,0,0,0,0,0,4,0,0,1,0,0,-
+ Shkodran,Mustafi, Shkodran Mustafi,D,arsenal,31,31,1805,2,0,10,18,9,0,7,31,5,14,0,0,-
+ Granit,Xhaka, Granit Xhaka,M,arsenal,29,29,1756,4,2,13,30,10,0,38,29,1,134,98,0,-
+ Aaron,Ramsey, Aaron Ramsey,M,arsenal,28,14,816,4,6,14,35,0,0,16,13,3,27,0,0,-
+ Henrikh,Mkhitaryan, Henrikh Mkhitaryan,M,arsenal,25,19,1201,6,4,15,50,1,0,10,21,4,82,48,0,-
+,Sokratis, Sokratis,D,arsenal,25,25,1710,1,2,2,10,12,0,19,30,0,2,0,0,-
+ Mesut,Ozil, Mesut Ozil,M,arsenal,24,20,1149,5,2,7,11,2,0,15,10,11,78,37,0,-
+ Sead,Kolasinac, Sead Kolasinac,D,arsenal,24,22,1891,0,5,2,9,5,0,11,19,10,88,4,0,-
+ Nacho,Monreal, Nacho Monreal,D,arsenal,22,21,1231,1,3,4,6,5,0,11,9,1,36,0,0,-
+ Hector,Bellerin, Hector Bellerin,D,arsenal,19,18,723,0,5,4,18,3,0,2,7,1,56,0,0,-
+ Laurent,Koscielny, Laurent Koscielny,D,arsenal,17,13,1330,3,0,4,5,1,0,16,11,0,1,0,0,-
+ Ainsley,Maitland-Niles, Ainsley Maitland-Niles,M,arsenal,16,11,951,1,1,3,5,1,0,11,6,1,27,0,0,-
+ Stephan,Lichtsteiner, Stephan Lichtsteiner,D,arsenal,14,10,824,0,0,0,1,3,0,7,8,1,37,0,0,-
+ Rob,Holding, Rob Holding,D,arsenal,10,9,486,0,0,0,2,1,0,2,3,0,1,0,0,-
+ Danny,Welbeck, Danny Welbeck,F,arsenal,8,1,31,1,1,2,4,0,0,0,1,1,4,0,0,-
+ Mohamed,Elneny, Mohamed Elneny,M,arsenal,8,5,379,0,0,0,7,0,0,0,1,1,3,0,0,-
+ Petr,Cech, Petr Cech,G,arsenal,7,7,-,0,0,0,0,0,0,-,-,0,0,0,-,-
+ Eddie,Nketiah, Eddie Nketiah,F,arsenal,5,0,62,1,0,1,3,0,0,2,0,2,1,0,0,-
+ Konstantinos,Mavropanos, Konstantinos Mavropanos,D,arsenal,4,3,149,0,0,0,2,1,0,0,2,0,0,0,0,-
+ Denis,Suarez, Denis Suarez,M,arsenal,4,0,67,0,0,0,0,0,0,1,0,0,0,0,0,-
+ Carl,Jenkinson, Carl Jenkinson,D,arsenal,3,2,165,0,0,0,0,0,0,0,1,0,5,0,0,-
+ Joe,Willock, Joe Willock,M,arsenal,2,1,64,0,0,0,2,0,0,1,0,0,0,0,0,-
+ Bukayo,Saka, Bukayo Saka,F,arsenal,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,
+ Ryan,Fraser, Ryan Fraser,M,bournemouth,38,35,2400,7,14,27,50,2,0,51,6,10,315,119,0,-
+ Nathan,Ake, Nathan Ake,D,bournemouth,38,38,2602,4,0,7,22,3,0,15,24,2,8,0,0,-
+ Joshua,King, Joshua King,F,bournemouth,35,34,2190,12,3,24,69,3,0,33,41,9,72,2,2,2
+ Steve,Cook, Steve Cook,D,bournemouth,31,31,1977,1,0,9,21,3,0,20,13,1,11,0,0,-
+ Callum,Wilson, Callum Wilson,F,bournemouth,30,29,1747,14,9,29,69,3,0,19,24,18,36,2,1,-
+ David,Brooks, David Brooks,M,bournemouth,30,29,1725,7,5,23,42,3,0,32,10,2,50,16,0,-
+ Jefferson,Lerma, Jefferson Lerma,M,bournemouth,30,29,1985,2,0,8,31,12,0,38,34,3,11,0,0,-
+ Dan,Gosling, Dan Gosling,M,bournemouth,25,19,1231,2,1,8,21,8,0,18,19,2,8,1,0,-
+ Adam,Smith, Adam Smith,D,bournemouth,25,25,1314,1,1,1,9,5,1,30,12,0,30,6,0,-
+ Lys,Mousset, Lys Mousset,F,bournemouth,24,1,330,1,0,7,12,1,0,5,7,4,4,0,0,-
+ Asmir,Begovic, Asmir Begovic,G,bournemouth,24,24,1350,0,0,0,0,0,0,3,0,0,1,0,0,-
+ Junior,Stanislas, Junior Stanislas,M,bournemouth,23,11,944,2,3,9,32,1,0,10,6,3,52,23,0,-
+ Charlie,Daniels, Charlie Daniels,D,bournemouth,21,17,1313,1,0,3,12,4,0,7,4,0,44,3,0,-
+ Jordon,Ibe, Jordon Ibe,M,bournemouth,19,9,747,1,1,3,9,1,0,8,7,0,34,5,0,-
+ Andrew,Surman, Andrew Surman,M,bournemouth,18,16,1080,0,0,1,9,2,0,4,3,0,6,1,0,-
+ Simon,Francis, Simon Francis,D,bournemouth,17,13,765,0,2,1,3,1,0,7,3,3,38,1,0,-
+ Nathaniel,Clyne, Nathaniel Clyne,D,bournemouth,14,13,1255,0,1,0,2,2,0,4,9,0,21,1,0,-
+ Lewis,Cook, Lewis Cook,M,bournemouth,13,8,435,0,0,0,4,2,0,4,10,0,12,1,0,-
+ Chris,Mepham, Chris Mepham,D,bournemouth,13,10,848,0,1,0,2,1,0,4,7,0,1,0,0,-
+ Artur,Boruc, Artur Boruc,G,bournemouth,12,12,1080,0,0,0,0,2,0,0,0,0,0,0,0,-
+ Diego,Rico, Diego Rico,D,bournemouth,12,5,380,0,0,0,9,1,0,7,8,0,45,9,0,-
+ Dominic,Solanke, Dominic Solanke,F,bournemouth,10,2,340,0,1,3,10,0,0,9,2,1,3,0,0,-
+ Jack,Simpson, Jack Simpson,D,bournemouth,6,4,402,0,0,1,2,0,0,1,3,0,0,0,0,-
+ Tyrone,Mings, Tyrone Mings,D,bournemouth,5,2,141,0,0,0,0,0,0,1,0,0,2,0,0,-
+ Jermain,Defoe, Jermain Defoe,F,bournemouth,4,0,9,0,0,0,0,0,0,0,0,0,2,0,0,-
+ Sam,Surridge, Sam Surridge,F,bournemouth,2,0,11,0,0,1,1,0,0,1,0,0,0,1,0,-
+ Mark,Travers, Mark Travers,G,bournemouth,2,2,180,0,0,0,0,0,0,0,0,0,0,0,0,-
+ Emerson,Hyndman, Emerson Hyndman,M,bournemouth,1,0,37,0,0,0,0,0,0,0,0,0,0,0,0,-
+ Glenn,Murray, Glenn Murray,F,brighton,38,30,1850,13,1,23,54,5,0,37,52,37,16,0,2,-
+ Lewis,Dunk, Lewis Dunk,D,brighton,36,36,2502,2,1,4,21,5,0,10,18,0,4,0,0,-
+ Shane,Duffy, Shane Duffy,D,brighton,35,35,2278,5,1,16,37,4,1,6,15,4,4,0,0,-
+ Solly,March, Solly March,M,brighton,35,30,1745,1,5,10,43,1,0,23,19,7,160,38,0,-
+ Mathew,Ryan, Mathew Ryan,G,brighton,34,34,2250,0,0,0,0,2,0,1,1,0,1,0,0,-
+ Anthony,Knockaert, Anthony Knockaert,M,brighton,30,18,1153,2,6,11,29,4,1,12,16,4,123,46,0,-
+ Davy,Propper, Davy Propper,M,brighton,30,30,1857,1,1,2,12,2,0,11,23,0,32,5,0,-
+ Dale,Stephens, Dale Stephens,M,brighton,30,29,1927,1,1,1,13,6,1,8,31,0,16,2,0,-
+ Yves,Bissouma, Yves Bissouma,M,brighton,28,17,1364,0,0,3,30,5,0,19,30,2,13,3,0,-
+ Jurgen,Locadia, Jurgen Locadia,F,brighton,26,12,1021,2,0,10,27,1,0,7,14,11,19,0,0,-
+ Pascal,Gross, Pascal Gross,M,brighton,25,24,1656,3,3,9,22,1,0,9,14,4,159,55,0,-
+ Martin,Montoya, Martin Montoya,D,brighton,25,24,1626,0,1,2,7,4,0,9,19,0,41,0,0,-
+ Florin,Andone, Florin Andone,F,brighton,23,8,874,3,0,8,19,5,0,18,27,5,12,0,0,-
+,Bernardo, Bernardo,D,brighton,22,19,1638,0,1,3,9,4,0,28,15,2,36,0,0,-
+ Gaetan,Bong, Gaetan Bong,D,brighton,22,19,1021,0,0,0,2,0,0,2,7,0,62,0,0,-
+ Alireza,Jahanbakhsh, Alireza Jahanbakhsh,F,brighton,19,12,763,0,0,7,22,2,0,5,11,6,28,5,0,-
+ Beram,Kayal, Beram Kayal,M,brighton,18,9,596,1,1,2,5,4,0,4,10,0,12,2,0,-
+ Jose,Izquierdo, Jose Izquierdo,F,brighton,15,9,688,0,0,3,14,1,0,5,5,5,8,0,0,-
+,Bruno, Bruno,D,brighton,14,14,952,0,1,0,2,2,0,7,4,3,17,0,0,-
+ Leon,Balogun, Leon Balogun,D,brighton,8,5,431,1,0,1,2,2,0,2,4,1,3,0,0,-
+ David,Button, David Button,G,brighton,4,4,360,0,0,0,0,0,0,0,0,0,0,0,0,-
+ Chris,Wood, Chris Wood,F,burnley,38,29,2190,10,2,26,61,2,0,10,2,2,0,0,0,-
+ Ben,Mee, Ben Mee,D,burnley,38,38,2610,0,2,4,22,9,0,0,2,9,0,0,0,-
+ Charlie,Taylor, Charlie Taylor,D,burnley,38,35,2610,0,1,0,6,2,0,0,1,2,0,6,2,-
+ Ashley,Barnes, Ashley Barnes,F,burnley,37,26,2161,12,2,30,64,8,0,12,2,8,0,0,0,-
+ Jack,Cork, Jack Cork,M,burnley,37,37,2503,1,2,2,18,6,0,1,2,6,0,0,0,-
+ James,Tarkowski, James Tarkowski,D,burnley,35,35,2340,3,1,9,18,8,0,3,1,8,0,1,0,-
+ Ashley,Westwood, Ashley Westwood,M,burnley,34,31,2177,2,7,7,24,5,0,2,7,5,0,45,0,-
+ Jeff,Hendrick, Jeff Hendrick,M,burnley,32,25,1588,3,0,5,19,4,0,3,0,4,0,2,0,-
+ Johann,Gudmundsson, Johann Gudmundsson,M,burnley,29,19,1103,3,6,9,32,2,0,3,6,2,0,20,0,-
+ Dwight,McNeil, Dwight McNeil,F,burnley,21,19,1519,3,5,9,29,2,0,3,5,2,0,0,0,-
+ Matthew,Lowton, Matthew Lowton,D,burnley,21,19,1118,0,0,0,3,7,0,0,0,7,0,38,0,-
+ Sam,Vokes, Sam Vokes,F,burnley,20,10,432,3,0,7,21,0,0,3,0,0,0,19,0,-
+ Phil,Bardsley, Phil Bardsley,D,burnley,19,19,1492,0,0,1,12,9,0,0,0,9,0,3,0,-
+ Joe,Hart, Joe Hart,G,burnley,19,19,900,0,0,0,0,0,0,0,0,0,0,1,0,-
+ Tom,Heaton, Tom Heaton,G,burnley,19,19,1710,0,0,0,1,3,0,0,0,3,0,0,0,-
+ Aaron,Lennon, Aaron Lennon,M,burnley,16,14,427,1,1,2,4,1,0,1,1,1,0,0,0,-
+ Robbie,Brady, Robbie Brady,M,burnley,16,6,716,0,1,2,13,3,1,0,1,3,1,0,0,-
+ Matej,Vydra, Matej Vydra,M,burnley,13,3,139,1,1,2,5,1,0,1,1,1,0,1,0,-
+ Peter,Crouch, Peter Crouch,F,burnley,6,0,85,0,0,1,4,1,0,0,0,1,0,0,-,-
+ Steven,Defour, Steven Defour,M,burnley,6,6,378,0,0,0,0,0,0,0,0,0,0,4,0,-
+ Kevin,Long, Kevin Long,D,burnley,6,5,450,0,1,0,1,0,0,0,1,0,0,0,0,-
+ Stephen,Ward, Stephen Ward,D,burnley,3,3,-,0,0,1,1,1,0,0,0,1,0,0,0,-
+ Ben,Gibson, Ben Gibson,D,burnley,1,1,62,1,0,1,1,1,0,1,0,1,0,0,0,-
+ Bruno,Ecuele, Bruno Ecuele,D,cardiff,38,37,2565,0,1,3,10,0,0,12,10,1,26,0,0,-
+ Neil,Etheridge, Neil Etheridge,G,cardiff,38,38,2610,0,0,0,0,2,0,3,0,0,0,0,0,-
+ Sean,Morrison, Sean Morrison,D,cardiff,34,34,2230,1,3,10,35,6,0,13,23,10,5,1,0,-
+ Victor,Camarasa, Victor Camarasa,M,cardiff,32,31,1888,5,3,12,42,6,0,23,15,1,136,73,1,-
+,Junior Hoilett, Junior Hoilett,F,cardiff,32,23,1636,3,1,12,41,4,0,30,27,8,90,26,0,-
+ Joe,Bennett, Joe Bennett,D,cardiff,30,30,2011,0,1,3,10,5,0,25,16,1,54,2,0,-
+ Josh,Murphy, Josh Murphy,M,cardiff,29,22,1350,3,2,15,47,2,0,35,10,9,75,11,0,-
+ Sol,Bamba, Sol Bamba,D,cardiff,28,28,1755,4,1,7,22,7,0,12,24,3,3,0,0,-
+ Aron,Gunnarsson, Aron Gunnarsson,M,cardiff,28,27,2196,1,1,4,19,5,0,25,24,0,20,1,0,-
+ Joe,Ralls, Joe Ralls,M,cardiff,28,22,1282,0,0,2,20,4,1,8,19,1,96,48,0,1
+ Bobby,Reid, Bobby Reid,M,cardiff,27,16,960,5,2,9,28,0,0,14,2,11,13,0,1,-
+ Callum,Paterson, Callum Paterson,D,cardiff,27,21,1570,4,1,8,39,4,0,21,33,10,26,0,0,-
+ Harry,Arter, Harry Arter,M,cardiff,25,24,1336,0,1,4,22,10,0,13,17,2,20,2,0,-
+ Nathanie,Mendez-Laing, Nathanie Mendez-Laing,M,cardiff,20,11,900,4,1,10,19,0,0,3,7,3,42,2,1,-
+ Lee,Peltier, Lee Peltier,D,cardiff,20,17,1401,0,0,1,1,4,0,5,13,0,9,0,0,-
+ Kenneth,Zohore, Kenneth Zohore,F,cardiff,19,7,493,1,1,6,16,1,0,15,4,4,14,0,0,-
+ Danny,Ward, Danny Ward,F,cardiff,14,4,131,1,0,6,11,0,0,2,1,2,5,0,0,-
+ Kadeem,Harris, Kadeem Harris,M,cardiff,13,3,347,1,0,3,5,1,0,5,3,1,13,1,0,-
+ Oumar,Niasse, Oumar Niasse,F,cardiff,13,12,950,0,0,6,16,0,0,18,10,9,8,0,0,-
+ Leandro,Bacuna, Leandro Bacuna,M,cardiff,11,4,556,0,0,1,4,2,0,3,13,0,6,1,0,-
+ Gregory,Cunningham, Gregory Cunningham,D,cardiff,7,7,450,0,0,1,2,3,0,11,5,0,7,0,0,-
+ Gary,Madine, Gary Madine,F,cardiff,5,0,5,0,0,0,0,0,0,0,1,0,0,0,0,-
+ Jazz,Richards, Jazz Richards,D,cardiff,4,0,32,0,0,0,0,0,0,1,0,0,0,0,0,-
+ Rhys,Healey, Rhys Healey,F,cardiff,3,0,49,0,0,0,1,0,0,2,1,0,2,0,0,-
+ Loic,Damour, Loic Damour,M,cardiff,2,0,17,0,0,0,1,0,0,0,0,0,0,0,0,-
+ Cesar,Azpilicueta, Cesar Azpilicueta,D,chelsea,38,38,2593,1,5,7,17,4,0,14,30,2,144,0,0,-
+ Eden,Hazard, Eden Hazard,F,chelsea,37,32,2259,16,15,43,93,2,0,77,12,12,184,88,2,-
+,Jorginho, Jorginho,M,chelsea,37,37,2355,2,0,8,20,8,0,20,30,0,21,1,0,-
+ N'Golo,Kante, N'Golo Kante,M,chelsea,36,36,2285,4,4,6,30,3,0,12,28,6,36,0,0,-
+ David,Luiz, David Luiz,D,chelsea,36,36,2429,3,2,8,33,3,0,24,27,0,11,0,0,-
+ Kepa,Arrizabalaga, Kepa Arrizabalaga,G,chelsea,36,36,2430,0,0,0,0,2,0,2,0,0,0,0,0,-
+ Antonio,Rudiger, Antonio Rudiger,D,chelsea,33,33,2085,1,0,7,25,7,0,13,22,1,4,0,0,-
+,Willian, Willian,F,chelsea,32,26,1552,3,6,22,63,2,0,22,7,11,199,106,0,-
+ Mateo,Kovacic, Mateo Kovacic,M,chelsea,32,21,1268,0,2,4,28,3,0,23,12,0,16,1,0,-
+,Pedro, Pedro,M,chelsea,31,21,1416,8,2,26,56,2,0,20,13,8,77,8,0,-
+ Marcos,Alonso, Marcos Alonso,D,chelsea,31,31,1951,2,4,7,43,6,0,24,22,2,111,0,0,-
+ Ross,Barkley, Ross Barkley,M,chelsea,27,13,940,3,5,7,40,1,0,19,6,0,14,2,0,-
+ Olivier,Giroud, Olivier Giroud,F,chelsea,27,7,464,2,4,11,31,1,0,3,3,6,0,0,0,-
+ Ruben,Loftus-Cheek, Ruben Loftus-Cheek,M,chelsea,24,6,949,6,1,8,27,0,0,23,10,2,8,3,0,-
+ Alvaro,Morata, Alvaro Morata,F,chelsea,16,11,501,5,0,16,35,3,0,8,11,19,8,0,0,-
+ Gonzalo,Higuain, Gonzalo Higuain,F,chelsea,14,13,1092,5,0,15,47,0,0,2,6,11,8,0,0,-
+,Emerson, Emerson,D,chelsea,10,7,660,0,0,1,4,0,0,6,8,0,33,0,0,-
+ Callum,Hudson Odoi, Callum Hudson Odoi,M,chelsea,10,4,391,0,1,4,6,0,0,6,1,3,25,3,0,-
+ Andreas,Christensen, Andreas Christensen,D,chelsea,8,6,615,0,0,0,0,1,0,4,8,0,0,0,0,-
+ Cesc,Fabregas, Cesc Fabregas,M,chelsea,6,1,175,0,0,0,1,1,0,3,1,0,5,2,0,-
+ Davide,Zappacosta, Davide Zappacosta,D,chelsea,4,1,119,0,0,1,2,0,0,1,2,0,1,1,0,-
+ Willy,Caballero, Willy Caballero,G,chelsea,2,2,180,0,0,0,0,0,0,0,0,0,0,0,0,-
+ Gary,Cahill, Gary Cahill,D,chelsea,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-
+ Luka,Milivojevic, Luka Milivojevic,M,crystal palace,38,38,2610,12,2,23,55,10,0,27,40,0,228,136,10,-
+ Andros,Townsend, Andros Townsend,M,crystal palace,38,34,2240,6,4,19,62,1,0,46,8,9,186,43,0,-
+ James,McArthur, James McArthur,M,crystal palace,38,36,2303,3,5,8,32,7,0,28,46,2,30,6,0,-
+ Patrick,van Aanholt, Patrick van Aanholt,D,crystal palace,36,36,2388,3,2,12,44,3,0,7,8,10,85,1,0,-
+ Aaron,Wan-Bissaka, Aaron Wan-Bissaka,D,crystal palace,35,35,2430,0,3,1,8,4,1,9,20,2,65,0,0,-
+ Wilfried,Zaha, Wilfried Zaha,M,crystal palace,34,34,2320,10,5,28,74,8,0,79,36,17,88,2,0,-
+ Cheikhou,Kouyate, Cheikhou Kouyate,M,crystal palace,31,21,1609,0,2,8,20,3,0,13,26,3,9,0,0,-
+ Jeffrey,Schlupp, Jeffrey Schlupp,D,crystal palace,30,18,1156,4,1,10,29,1,0,9,17,0,24,0,0,-
+ Max,Meyer, Max Meyer,M,crystal palace,29,15,1239,1,2,7,38,3,0,17,9,1,34,17,0,-
+ James,Tomkins, James Tomkins,D,crystal palace,29,29,1933,1,1,5,18,6,0,10,12,1,2,0,0,-
+ Mamadou,Sakho, Mamadou Sakho,D,crystal palace,27,27,1608,0,0,0,5,2,0,4,2,0,2,0,0,-
+ Jordan,Ayew, Jordan Ayew,F,crystal palace,20,14,794,1,1,3,25,3,0,17,18,9,23,0,0,-
+ Vicente,Guaita, Vicente Guaita,G,crystal palace,20,20,1755,0,0,0,0,2,0,6,1,0,0,0,0,-
+ Wayne,Hennessey, Wayne Hennessey,G,crystal palace,18,17,765,0,0,0,0,0,0,1,0,0,0,0,0,-
+ Christian,Benteke, Christian Benteke,F,crystal palace,16,9,486,1,1,9,24,1,0,6,12,10,4,0,0,-
+ Martin,Kelly, Martin Kelly,D,crystal palace,13,12,930,0,0,1,3,2,0,0,4,0,3,0,0,-
+ Alexander,Sorloth, Alexander Sorloth,F,crystal palace,12,0,92,0,0,2,4,0,0,2,0,0,2,0,0,-
+ Michy,Batshuayi, Michy Batshuayi,F,crystal palace,11,9,756,5,0,10,24,0,0,4,7,12,4,0,0,-
+ Scott,Dann, Scott Dann,D,crystal palace,10,7,659,0,1,2,5,1,0,0,4,0,0,0,0,-
+ Joel,Ward, Joel Ward,D,crystal palace,7,6,450,1,0,1,2,1,0,5,4,1,11,0,0,-
+ Connor,Wickham, Connor Wickham,F,crystal palace,6,0,60,0,0,1,5,0,0,0,3,0,2,0,0,-
+ Jason,Puncheon, Jason Puncheon,M,crystal palace,5,0,392,0,0,0,0,0,0,2,12,0,0,0,0,-
+ Bakary,Sako, Bakary Sako,M,crystal palace,4,0,25,0,0,0,0,0,0,0,1,1,1,0,0,-
+ Julian,Speroni, Julian Speroni,G,crystal palace,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,-
+ Gylfi,Sigurdsson, Gylfi Sigurdsson,M,everton,38,36,2385,13,6,32,84,3,0,25,20,4,215,103,2,2
+ Jordan,Pickford, Jordan Pickford,G,everton,38,38,2610,0,0,0,0,1,0,2,1,0,0,0,0,-
+ Theo,Walcott, Theo Walcott,F,everton,37,24,1389,5,2,21,43,1,0,15,7,19,64,2,0,-
+,Richarlison, Richarlison,F,everton,35,32,2108,13,1,28,79,5,1,57,27,17,62,0,0,-
+ Dominic,Calvert-Lewin, Dominic Calvert-Lewin,F,everton,35,19,1438,6,2,18,49,3,0,23,26,5,18,0,0,-
+ Lucas,Digne, Lucas Digne,D,everton,35,33,2435,4,4,10,34,5,1,22,31,2,296,83,0,-
+,Bernard, Bernard,M,everton,34,25,1900,1,3,5,23,5,0,20,14,2,74,4,0,-
+ Michael,Keane, Michael Keane,D,everton,33,33,2341,1,1,9,32,2,0,7,22,0,3,0,0,-
+ Idrissa,Gueye, Idrissa Gueye,M,everton,33,32,2105,0,2,4,19,6,0,26,41,0,21,5,0,-
+ Kurt,Zouma, Kurt Zouma,D,everton,32,29,2070,2,1,4,19,3,0,16,13,2,4,0,0,-
+ Seamus,Coleman, Seamus Coleman,D,everton,29,29,2113,2,2,7,14,1,0,12,18,3,107,1,0,-
+ Andre,Gomes, Andre Gomes,M,everton,27,24,1904,1,1,6,21,7,0,25,44,0,17,0,0,-
+ Cenk,Tosun, Cenk Tosun,F,everton,25,10,556,3,3,17,37,3,0,8,12,9,3,0,0,-
+ Ademola,Lookman, Ademola Lookman,F,everton,21,3,547,0,2,3,12,0,0,18,8,2,19,6,0,-
+ Tom,Davies, Tom Davies,M,everton,16,10,478,0,0,2,7,3,0,11,12,1,6,1,0,-
+ Morgan,Schneiderlin, Morgan Schneiderlin,M,everton,14,10,585,0,1,0,2,2,0,3,13,0,2,0,0,-
+ Yerry,Mina, Yerry Mina,D,everton,13,10,890,1,0,1,4,3,0,5,12,1,1,1,0,-
+ Jonjoe,Kenny, Jonjoe Kenny,D,everton,10,8,430,0,1,0,3,1,0,0,5,0,25,0,0,-
+ Phil,Jagielka, Phil Jagielka,D,everton,7,4,289,1,0,1,1,0,1,3,1,0,0,0,0,-
+ Leighton,Baines, Leighton Baines,D,everton,6,5,92,0,0,1,2,0,0,0,1,1,17,9,0,-
+ Mason,Holgate, Mason Holgate,D,everton,5,4,-,0,0,0,0,1,0,-,-,0,0,0,-,-
+ Oumar,Niasse, Oumar Niasse,F,everton,5,0,950,0,0,1,3,0,0,18,10,1,1,0,0,-
+ James,McCarthy, James McCarthy,M,everton,1,0,14,0,0,0,0,0,0,0,0,0,0,0,0,-
+ Aleksandar,Mitrovic, Aleksandar Mitrovic,F,fulham,37,37,2471,11,3,49,131,7,0,46,47,34,8,0,1,-
+ Ryan,Sessegnon, Ryan Sessegnon,M,fulham,35,26,1650,2,7,12,31,0,0,11,16,15,93,28,0,-
+ Michael,Seri, Michael Seri,M,fulham,32,27,1519,1,2,6,18,6,0,15,26,1,120,87,0,-
+ Calum,Chambers, Calum Chambers,D,fulham,31,29,2250,2,0,12,32,9,0,4,27,0,17,1,0,-
+ Tom,Cairney, Tom Cairney,M,fulham,31,24,1931,1,1,5,23,0,0,33,7,0,39,5,0,-
+ Denis,Odoi, Denis Odoi,D,fulham,31,29,2009,0,1,1,9,4,0,23,28,0,16,1,0,-
+ Sergio,Rico, Sergio Rico,G,fulham,29,29,2610,0,0,0,0,1,0,6,1,0,0,0,0,-
+ Joe,Bryan, Joe Bryan,D,fulham,28,27,2031,0,1,7,22,5,0,24,22,2,129,14,0,-
+ Cyrus,Christie, Cyrus Christie,D,fulham,28,19,1588,0,1,2,11,7,0,13,24,2,102,0,0,-
+ Maxime,Le Marchand, Maxime Le Marchand,D,fulham,26,25,1712,0,1,0,6,5,0,4,21,2,19,0,0,-
+ Tim,Ream, Tim Ream,D,fulham,26,25,1815,0,0,0,1,1,0,6,11,0,3,0,0,-
+ Andre,Schurrle, Andre Schurrle,M,fulham,24,21,961,6,0,19,53,2,0,5,9,12,53,2,0,-
+ Andre Zambo,Anguissa, Andre Zambo Anguissa,M,fulham,22,16,1130,0,0,5,20,1,0,13,16,2,6,2,0,-
+ Luciano,Vietto, Luciano Vietto,F,fulham,20,10,488,1,4,7,22,1,0,7,9,0,26,0,0,-
+ Ryan,Babel, Ryan Babel,F,fulham,16,15,1262,5,3,9,24,3,0,16,15,9,45,15,0,-
+ Floyd,Ayite, Floyd Ayite,F,fulham,16,3,363,1,0,1,7,0,0,5,6,4,11,1,0,-
+ Alfie,Mawson, Alfie Mawson,D,fulham,15,13,860,0,0,1,2,2,0,4,4,0,5,0,0,-
+ Kevin,McDonald, Kevin McDonald,M,fulham,15,10,318,0,0,0,3,4,0,2,7,0,3,0,0,-
+ Aboubakar,Kamara, Aboubakar Kamara,F,fulham,13,5,537,3,0,9,20,2,0,4,19,7,22,0,1,1
+ Timothy,Fosu-Mensah, Timothy Fosu-Mensah,D,fulham,12,10,426,0,0,0,3,3,0,1,3,0,25,0,0,-
+ Stefan,Johansen, Stefan Johansen,M,fulham,12,4,127,0,0,0,1,4,0,1,2,0,12,5,0,-
+ Marcus,Bettinelli, Marcus Bettinelli,G,fulham,7,7,1,0,0,0,0,1,0,0,0,0,0,0,0,-
+ Neeskens,Kebano, Neeskens Kebano,M,fulham,7,0,101,0,0,0,1,0,0,1,0,0,2,0,0,-
+ Havard,Nordtveit, Havard Nordtveit,D,fulham,5,4,362,0,0,0,0,0,0,1,5,0,0,0,0,-
+ Ibrahima,Cisse, Ibrahima Cisse,M,fulham,3,1,87,0,0,0,0,0,0,0,1,0,0,0,0,-
+ Harvey,Elliott, Harvey Elliott,F,fulham,2,0,18,0,0,1,1,0,0,0,0,0,1,0,0,-
+,Fabri, Fabri,G,fulham,2,2,-,0,0,0,0,0,0,-,-,0,0,0,-,-
+ Lazar,Markovic, Lazar Markovic,M,fulham,1,0,45,0,0,0,0,0,0,0,1,0,0,0,0,-
+ Christopher,Schindler, Christopher Schindler,D,huddersfield,37,37,2470,1,0,4,13,4,0,15,20,0,0,0,0,-
+ Terence,Kongolo, Terence Kongolo,D,huddersfield,32,32,2171,1,0,4,15,4,0,18,16,2,28,0,0,-
+ Steve,Mounie, Steve Mounie,F,huddersfield,31,19,1287,2,3,21,61,1,1,9,21,16,10,1,0,-
+ Jonas,Lossl, Jonas Lossl,G,huddersfield,31,30,2160,0,1,0,0,1,0,2,0,0,1,0,0,-
+ Alex,Pritchard, Alex Pritchard,M,huddersfield,30,26,1701,2,0,15,49,2,0,48,12,7,90,22,0,-
+ Aaron,Mooy, Aaron Mooy,M,huddersfield,29,25,1607,3,1,13,42,4,0,11,22,1,152,74,1,-
+ Jonathan,Hogg, Jonathan Hogg,M,huddersfield,29,29,1954,0,1,1,8,8,1,32,46,1,25,2,0,-
+ Chris,Lowe, Chris Lowe,D,huddersfield,29,23,1361,0,2,6,19,2,0,7,10,2,138,32,0,-
+ Erik,Durm, Erik Durm,D,huddersfield,28,21,1677,0,1,0,10,0,0,17,10,1,77,0,0,-
+ Philip,Billing, Philip Billing,M,huddersfield,27,25,1401,2,0,9,40,7,0,20,24,2,64,3,0,-
+ Mathias,Jorgensen, Mathias Jorgensen,D,huddersfield,24,24,1440,3,1,4,9,6,0,8,20,0,7,0,0,-
+ Florent,Hadergjonaj, Florent Hadergjonaj,D,huddersfield,24,19,1270,0,0,2,6,1,0,11,5,2,88,0,0,-
+ Laurent,Depoitre, Laurent Depoitre,F,huddersfield,23,10,619,0,1,9,29,1,0,7,10,7,4,0,0,-
+ Isaac,Mbenza, Isaac Mbenza,F,huddersfield,22,10,876,1,1,5,16,1,0,5,7,4,36,5,0,-
+ Juninho,Bacuna, Juninho Bacuna,F,huddersfield,21,16,1415,1,0,8,19,4,0,23,34,1,43,18,0,-
+ Elias,Kachunga, Elias Kachunga,F,huddersfield,20,13,1026,0,0,4,15,2,0,16,19,9,18,0,0,-
+ Tom,Smith, Tom Smith,D,huddersfield,15,13,1052,0,0,0,3,2,1,4,10,0,27,0,0,-
+ Karlan,Ahearne-Grant, Karlan Ahearne-Grant,F,huddersfield,13,9,875,3,0,10,19,0,0,11,7,4,17,0,0,-
+ Adama,Diakhaby, Adama Diakhaby,F,huddersfield,12,6,320,0,0,3,7,1,0,5,2,2,16,0,0,-
+ Jon,Stankovic, Jon Stankovic,D,huddersfield,11,9,627,1,0,2,9,2,0,8,8,0,2,0,0,-
+ Ben,Hamer, Ben Hamer,G,huddersfield,7,7,360,0,0,0,0,0,0,0,0,0,1,0,0,-
+ Jason,Puncheon, Jason Puncheon,M,huddersfield,6,5,392,0,0,0,6,1,0,2,12,1,11,5,0,-
+ Rajiv,van La Parra, Rajiv van La Parra,M,huddersfield,5,5,-,0,0,0,5,0,0,-,-,0,7,0,-,-
+ Danny,Williams, Danny Williams,M,huddersfield,5,1,93,0,0,0,1,1,0,0,3,0,1,0,0,-
+ Ramadan,Sobhi, Ramadan Sobhi,F,huddersfield,4,0,69,0,0,0,0,0,0,1,0,0,4,0,0,-
+ Matty,Daly, Matty Daly,M,huddersfield,2,0,73,0,0,0,0,0,0,0,0,0,0,0,0,-
+ Collin,Quaner, Collin Quaner,F,huddersfield,2,0,37,0,0,0,0,0,0,0,2,1,0,0,0,-
+ Aaron,Rowe, Aaron Rowe,M,huddersfield,2,1,69,0,0,0,0,0,0,0,2,0,0,0,0,-
+ Abdelhamid,Sabiri, Abdelhamid Sabiri,M,huddersfield,2,1,3,0,0,0,0,0,0,1,0,0,0,0,0,-
+ Joel,Coleman, Joel Coleman,G,huddersfield,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,-
+ Demeaco,Duhaney, Demeaco Duhaney,D,huddersfield,1,1,45,0,0,0,0,0,0,1,0,0,1,0,0,-
+ Wilfred,Ndidi, Wilfred Ndidi,M,leicester city,38,37,2488,2,0,9,55,8,0,19,31,2,17,1,0,-
+ Kasper,Schmeichel, Kasper Schmeichel,G,leicester city,38,38,2610,0,0,0,1,3,0,3,0,0,2,0,0,-
+ James,Maddison, James Maddison,M,leicester city,36,35,2127,7,7,28,84,3,0,50,19,2,231,162,0,1
+ Ben,Chilwell, Ben Chilwell,D,leicester city,36,36,2430,0,4,11,22,4,0,33,27,2,168,4,0,-
+ Ricardo,Pereira, Ricardo Pereira,D,leicester city,35,35,2430,2,6,11,27,7,0,43,30,2,125,0,0,-
+ Jamie,Vardy, Jamie Vardy,F,leicester city,34,30,2215,18,4,39,77,3,1,15,15,37,34,0,3,1
+ Demarai,Gray, Demarai Gray,M,leicester city,34,23,1553,4,1,18,47,2,0,11,9,3,70,9,0,-
+ Harry,Maguire, Harry Maguire,D,leicester city,31,31,1789,3,0,12,29,6,1,9,14,4,3,0,0,-
+ Nampalys,Mendy, Nampalys Mendy,M,leicester city,31,23,1368,0,0,0,2,5,0,20,16,0,7,0,0,-
+ Kelechi,Iheanacho, Kelechi Iheanacho,F,leicester city,30,9,408,1,2,6,17,2,0,3,7,8,8,0,0,-
+ Marc,Albrighton, Marc Albrighton,M,leicester city,27,18,1372,2,2,7,19,3,0,18,9,2,140,12,0,-
+ Jonny,Evans, Jonny Evans,D,leicester city,24,21,1719,1,0,3,9,2,0,14,20,0,2,0,0,-
+ Wes,Morgan, Wes Morgan,D,leicester city,22,21,1434,3,0,5,12,1,0,6,9,3,0,0,0,-
+ Shinji,Okazaki, Shinji Okazaki,F,leicester city,21,1,228,0,1,3,4,0,0,4,6,4,2,0,0,-
+ Rachid,Ghezzal, Rachid Ghezzal,M,leicester city,19,8,469,1,0,5,19,3,0,6,6,0,50,21,0,-
+ Harvey,Barnes, Harvey Barnes,M,leicester city,16,11,1010,1,2,11,40,0,0,7,6,2,41,0,0,-
+ Youri,Tielemans, Youri Tielemans,M,leicester city,13,13,1092,3,4,13,32,2,0,15,9,0,15,1,0,-
+ Daniel,Amartey, Daniel Amartey,M,leicester city,9,7,90,0,0,1,4,2,0,0,0,1,4,0,0,-
+ Hamza,Choudhury, Hamza Choudhury,M,leicester city,9,7,596,0,0,2,4,0,0,2,8,0,3,0,0,-
+ Vicente,Iborra, Vicente Iborra,M,leicester city,8,3,211,0,0,1,2,0,0,2,5,0,2,0,0,-
+ Danny,Simpson, Danny Simpson,D,leicester city,6,3,291,0,0,0,0,0,0,0,2,0,4,0,0,-
+ Caglar,Soyuncu, Caglar Soyuncu,D,leicester city,6,4,371,0,0,0,2,1,0,2,9,0,1,0,0,-
+ Christian,Fuchs, Christian Fuchs,D,leicester city,3,2,206,0,0,0,2,0,0,2,3,0,19,0,0,-
+ Adrien,Silva, Adrien Silva,M,leicester city,2,1,-,0,0,0,0,0,0,-,-,0,1,0,-,-
+ Fousseni,Diabate, Fousseni Diabate,F,leicester city,1,1,55,0,0,0,0,0,0,1,0,1,2,0,0,-
+ Mohamed,Salah, Mohamed Salah,F,liverpool,38,37,2497,22,7,66,139,1,0,23,19,27,98,34,3,-
+ Virgil,van Dijk, Virgil van Dijk,D,liverpool,38,38,2610,4,2,8,30,1,0,16,3,1,6,0,0,-
+,Alisson, Alisson,G,liverpool,38,38,2610,0,0,0,0,1,0,0,0,0,0,0,0,-
+ Sadio,Mane, Sadio Mane,F,liverpool,36,35,2384,22,1,43,87,2,0,49,22,24,71,2,0,-
+ Andy,Robertson, Andy Robertson,D,liverpool,36,36,2409,0,10,5,17,4,0,13,16,1,187,5,0,-
+ Georginio,Wijnaldum, Georginio Wijnaldum,M,liverpool,35,32,1992,3,0,9,30,3,0,21,9,2,23,8,0,-
+ Roberto,Firmino, Roberto Firmino,F,liverpool,34,31,1942,12,7,36,74,0,0,9,24,7,25,1,1,-
+ Jordan,Henderson, Jordan Henderson,M,liverpool,32,21,1524,1,2,1,17,1,0,11,22,1,54,1,0,-
+ James,Milner, James Milner,M,liverpool,31,19,1122,5,4,7,24,5,0,19,15,0,160,91,2,-
+ Trent,Alexander-Arnold, Trent Alexander-Arnold,D,liverpool,29,27,1839,1,12,10,29,3,0,5,7,4,245,74,0,-
+,Fabinho, Fabinho,M,liverpool,28,21,1992,1,2,4,17,6,0,29,29,0,16,0,0,-
+ Naby,Keita, Naby Keita,M,liverpool,25,16,955,2,1,10,27,0,0,12,19,0,14,2,0,-
+ Xherdan,Shaqiri, Xherdan Shaqiri,M,liverpool,24,11,870,6,3,10,25,2,0,11,6,2,61,28,0,-
+ Joel,Matip, Joel Matip,D,liverpool,22,17,1440,1,0,2,8,3,0,13,12,0,1,0,0,-
+ Daniel,Sturridge, Daniel Sturridge,F,liverpool,18,4,364,2,1,6,18,1,0,6,3,4,7,0,0,-
+ Joe,Gomez, Joe Gomez,D,liverpool,16,12,305,0,0,1,4,2,0,2,6,0,9,0,0,-
+ Dejan,Lovren, Dejan Lovren,D,liverpool,13,11,805,1,0,1,6,1,0,9,3,0,4,0,0,-
+ Adam,Lallana, Adam Lallana,M,liverpool,13,5,392,0,0,3,5,1,0,6,2,0,16,3,0,-
+ Divock,Origi, Divock Origi,F,liverpool,12,4,366,3,1,7,14,0,0,5,2,3,11,0,0,-
+ Nathaniel,Clyne, Nathaniel Clyne,D,liverpool,4,1,1255,0,0,1,3,0,0,4,9,0,4,0,0,-
+ Alberto,Moreno, Alberto Moreno,D,liverpool,2,2,156,0,0,0,1,0,0,0,1,0,6,0,0,-
+ Alex,Oxlade-Chamberlain, Alex Oxlade-Chamberlain,M,liverpool,2,0,19,0,0,1,1,0,0,1,0,0,0,0,0,-
+,Ederson, Ederson,G,manchester city,38,38,2610,0,1,0,0,2,0,2,2,0,0,0,0,-
+ Bernardo,Silva, Bernardo Silva,M,manchester city,36,31,2161,7,7,23,61,3,0,14,24,2,105,25,0,-
+ Aymeric,Laporte, Aymeric Laporte,D,manchester city,35,34,2247,3,3,7,26,3,0,12,15,2,10,0,0,-
+ Raheem,Sterling, Raheem Sterling,F,manchester city,34,31,2187,17,9,39,78,3,0,30,36,13,133,19,0,-
+ Sergio,Aguero, Sergio Aguero,F,manchester city,33,31,1833,21,8,43,121,4,0,19,19,26,29,0,2,-
+ David,Silva, David Silva,M,manchester city,33,28,1823,6,8,19,52,2,0,18,19,5,116,21,0,-
+ Kyle,Walker, Kyle Walker,D,manchester city,33,30,2147,1,1,4,21,3,0,10,14,4,80,1,0,-
+ Leroy,Sane, Leroy Sane,M,manchester city,31,21,1480,10,10,24,56,1,0,9,8,18,138,52,0,-
+ Ilkay,Gundogan, Ilkay Gundogan,M,manchester city,31,23,1781,6,3,11,43,3,0,20,12,0,127,82,0,-
+ Gabriel,Jesus, Gabriel Jesus,F,manchester city,29,8,724,7,3,24,43,1,0,11,9,14,11,0,1,-
+,Fernandinho, Fernandinho,M,manchester city,29,27,1587,1,3,7,30,5,0,22,27,2,22,1,0,-
+ Riyad,Mahrez, Riyad Mahrez,M,manchester city,27,14,927,7,4,26,53,0,0,12,4,9,100,43,0,-
+ John,Stones, John Stones,D,manchester city,24,20,1296,0,0,1,5,1,0,7,3,1,3,0,0,-
+ Kevin,De Bruyne, Kevin De Bruyne,M,manchester city,19,11,913,2,2,13,32,2,0,14,8,1,119,52,0,-
+ Nicolas,Otamendi, Nicolas Otamendi,D,manchester city,18,14,962,0,0,2,14,1,0,2,6,0,3,0,0,-
+ Vincent,Kompany, Vincent Kompany,D,manchester city,17,13,952,1,0,1,7,6,0,1,13,1,2,0,0,-
+ Olexandr,Zinchenko, Olexandr Zinchenko,M,manchester city,14,14,1063,0,3,1,7,1,0,4,13,1,46,0,0,-
+ Philip,Foden, Philip Foden,F,manchester city,13,3,282,1,0,6,14,0,0,3,3,0,10,2,0,-
+,Danilo, Danilo,D,manchester city,11,9,806,1,0,4,14,1,0,7,9,0,18,0,0,-
+ Fabian,Delph, Fabian Delph,D,manchester city,11,8,567,0,1,3,4,1,1,7,5,0,15,0,0,-
+ Benjamin,Mendy, Benjamin Mendy,D,manchester city,10,10,360,0,4,3,7,1,0,1,7,0,60,0,0,-
+ David,De Gea, David De Gea,G,manchester united,38,38,2610,0,0,0,0,1,0,4,1,0,0,0,0,-
+ Paul,Pogba, Paul Pogba,M,manchester united,35,34,2226,13,9,47,101,6,0,47,38,5,58,0,5,2
+ Marcus,Rashford, Marcus Rashford,F,manchester united,33,26,2037,10,5,39,84,3,1,45,21,15,68,21,0,-
+ Romelu,Lukaku, Romelu Lukaku,F,manchester united,32,22,1387,12,0,32,57,4,0,3,10,23,58,0,0,-
+ Ashley,Young, Ashley Young,D,manchester united,30,28,2119,2,2,4,13,8,0,24,27,4,230,101,0,-
+ Victor,Lindelof, Victor Lindelof,D,manchester united,30,29,1972,1,1,1,7,1,0,9,13,0,1,0,0,-
+ Luke,Shaw, Luke Shaw,D,manchester united,29,29,1872,1,4,8,23,11,0,11,30,1,80,15,0,-
+ Nemanja,Matic, Nemanja Matic,M,manchester united,28,28,1931,1,0,2,12,6,0,17,24,1,13,0,0,-
+ Anthony,Martial, Anthony Martial,F,manchester united,27,18,1272,10,2,22,39,2,0,24,9,6,60,3,1,-
+ Jesse,Lingard, Jesse Lingard,M,manchester united,27,19,1313,4,2,15,32,3,0,16,25,7,18,3,1,-
+ Chris,Smalling, Chris Smalling,D,manchester united,24,24,1498,1,0,4,12,1,0,5,16,2,0,0,0,-
+ Juan,Mata, Juan Mata,M,manchester united,22,16,966,3,2,6,19,3,0,9,8,8,92,37,0,-
+ Ander,Herrera, Ander Herrera,M,manchester united,22,16,1319,2,3,9,20,4,0,17,22,0,10,2,0,-
+ Alexis,Sanchez, Alexis Sanchez,F,manchester united,20,9,516,1,3,9,19,3,0,10,8,8,41,5,0,-
+ Phil,Jones, Phil Jones,D,manchester united,18,15,1203,0,0,2,5,1,0,10,7,0,3,0,0,-
+,Fred, Fred,M,manchester united,17,13,705,1,1,2,17,2,0,10,17,1,16,3,0,-
+ Scott,McTominay, Scott McTominay,M,manchester united,16,9,706,2,0,6,16,1,0,15,10,1,4,0,0,-
+ Diogo,Dalot, Diogo Dalot,D,manchester united,16,12,1015,0,2,0,15,3,0,2,11,2,58,3,0,-
+ Andreas,Pereira, Andreas Pereira,M,manchester united,15,6,439,1,1,3,9,5,0,3,7,1,14,5,0,-
+ Marouane,Fellaini, Marouane Fellaini,M,manchester united,14,6,276,0,1,3,9,1,0,5,9,2,7,0,0,-
+ Eric,Bailly, Eric Bailly,D,manchester united,12,8,437,0,0,1,3,0,1,4,4,0,2,0,0,-
+ Matteo,Darmian, Matteo Darmian,D,manchester united,6,5,353,0,0,1,1,0,0,4,2,1,7,0,0,-
+ Antonio,Valencia, Antonio Valencia,D,manchester united,6,5,106,0,0,0,2,2,0,0,1,0,15,0,0,-
+ Marcos,Rojo, Marcos Rojo,D,manchester united,5,2,211,0,0,3,6,2,0,1,3,0,3,0,0,-
+ Mason,Greenwood, Mason Greenwood,F,manchester united,3,1,115,0,0,4,7,0,0,1,0,2,4,1,0,-
+ Tahith,Chong, Tahith Chong,F,manchester united,2,0,36,0,0,1,1,0,0,2,0,0,0,0,0,-
+ Angel,Gomes, Angel Gomes,M,manchester united,2,0,25,0,0,1,2,0,0,0,0,0,0,1,0,-
+ Martin,Dubravka, Martin Dubravka,G,newcastle,38,38,2610,0,0,0,0,1,0,4,0,0,1,2,0,-
+ Ayoze,Perez, Ayoze Perez,F,newcastle,37,34,2258,12,2,26,54,2,0,27,30,9,36,1,0,-
+ Matt,Ritchie, Matt Ritchie,M,newcastle,36,35,2315,2,8,9,39,9,0,22,40,1,272,99,1,1
+ Salomon,Rondon, Salomon Rondon,F,newcastle,32,30,2397,11,7,31,89,1,0,26,19,19,27,0,0,-
+ Jamaal,Lascelles, Jamaal Lascelles,D,newcastle,32,32,2070,0,1,1,10,4,0,4,12,0,2,0,0,-
+ DeAndre,Yedlin, DeAndre Yedlin,D,newcastle,29,28,1765,1,2,3,10,6,1,8,28,5,87,0,0,-
+ Mohamed,Diame, Mohamed Diame,M,newcastle,29,24,1357,0,0,4,21,3,0,14,20,0,18,1,0,-
+ Christian,Atsu, Christian Atsu,M,newcastle,28,15,1311,1,0,13,27,2,0,23,13,4,46,3,0,-
+ Paul,Dummett, Paul Dummett,D,newcastle,26,21,1357,0,0,1,9,1,0,9,10,1,33,1,0,-
+ Isaac,Hayden, Isaac Hayden,M,newcastle,25,21,1752,1,4,6,20,3,1,10,26,0,17,0,0,-
+,Kenedy, Kenedy,M,newcastle,25,14,751,1,1,5,29,1,0,10,9,6,33,5,0,-
+ Fabian,Schar, Fabian Schar,D,newcastle,24,22,1925,4,1,8,26,12,0,19,24,1,15,0,0,-
+ Federico,Fernandez, Federico Fernandez,D,newcastle,19,17,942,0,1,1,3,2,0,3,8,1,4,0,0,-
+ Javi,Manquillo, Javi Manquillo,D,newcastle,18,12,952,0,3,1,2,2,0,7,11,1,31,1,0,-
+ Ki,Sung-yueng, Ki Sung-yueng,M,newcastle,18,14,1121,0,1,2,7,2,0,14,9,0,65,36,0,-
+ Yoshinori,Muto, Yoshinori Muto,F,newcastle,17,5,279,1,0,3,6,1,0,4,9,2,7,0,0,-
+,Joselu, Joselu,F,newcastle,16,5,150,2,0,6,16,1,0,1,2,4,2,0,0,-
+ Jonjo,Shelvey, Jonjo Shelvey,M,newcastle,16,10,404,1,1,7,22,1,0,2,8,0,61,31,0,-
+ Florian,Lejeune, Florian Lejeune,D,newcastle,12,12,1055,0,0,4,7,0,0,4,11,0,9,0,0,-
+ Ciaran,Clark, Ciaran Clark,D,newcastle,11,9,372,3,0,3,7,1,0,2,3,0,2,0,0,-
+ Miguel,Almiron, Miguel Almiron,M,newcastle,10,9,762,0,0,8,21,0,0,17,7,4,24,1,0,-
+ Sean,Longstaff, Sean Longstaff,M,newcastle,9,8,687,1,0,2,8,2,0,8,8,0,3,0,0,-
+ Jacob,Murphy, Jacob Murphy,M,newcastle,9,3,81,0,1,2,3,0,0,1,1,1,17,0,0,-
+ Antonio,Barreca, Antonio Barreca,D,newcastle,1,0,4,0,0,0,0,0,0,0,0,0,1,0,0,-
+ Nathan,Redmond, Nathan Redmond,M,southampton,38,36,2467,6,4,21,75,3,0,21,24,15,117,10,0,-
+ Pierre,Hojbjerg, Pierre Hojbjerg,M,southampton,31,31,2147,4,3,19,51,7,1,32,35,0,38,3,0,-
+ Oriol,Romeu, Oriol Romeu,M,southampton,31,25,1854,1,0,4,10,11,0,17,38,0,10,0,0,-
+ Stuart,Armstrong, Stuart Armstrong,M,southampton,29,16,1288,3,2,13,32,2,0,19,14,4,31,12,0,-
+ James,Ward Prowse, James Ward Prowse,M,southampton,26,21,1843,7,0,15,31,4,0,10,21,3,151,90,1,-
+ Shane,Long, Shane Long,F,southampton,26,12,910,5,1,9,31,3,0,19,18,12,17,1,0,-
+ Charlie,Austin, Charlie Austin,F,southampton,25,11,635,2,2,7,30,1,0,12,11,8,2,0,0,-
+ Jan,Bednarek, Jan Bednarek,D,southampton,25,24,2070,0,1,2,6,7,0,6,22,0,1,0,0,-
+ Alex,McCarthy, Alex McCarthy,G,southampton,25,25,1440,0,0,0,0,1,0,3,0,0,0,0,0,-
+ Danny,Ings, Danny Ings,F,southampton,24,23,1054,7,2,21,54,1,0,14,8,6,20,1,2,-
+ Ryan,Bertrand, Ryan Bertrand,D,southampton,24,24,1350,1,0,2,15,8,0,15,15,0,104,32,0,-
+ Jack,Stephens, Jack Stephens,D,southampton,24,19,1427,1,0,5,7,4,0,5,10,0,6,0,0,-
+ Yann,Valery, Yann Valery,D,southampton,23,20,1714,2,1,5,6,3,0,5,27,2,58,0,0,-
+ Jannik,Vestergaard, Jannik Vestergaard,D,southampton,23,23,1490,0,0,2,14,2,0,7,9,1,1,0,0,-
+ Mario,Lemina, Mario Lemina,M,southampton,21,18,829,1,1,5,24,5,0,18,17,1,18,0,0,-
+ Cedric,Soares, Cedric Soares,D,southampton,18,16,718,1,2,3,10,4,0,2,5,1,70,0,0,-
+ Maya,Yoshida, Maya Yoshida,D,southampton,17,17,1430,0,1,3,13,0,0,7,4,2,4,0,0,-
+ Matt,Targett, Matt Targett,D,southampton,16,13,1115,1,3,3,11,2,0,11,5,0,92,20,0,-
+ Mohamed,Elyounoussi, Mohamed Elyounoussi,M,southampton,16,8,367,0,0,5,18,0,0,5,7,2,52,24,0,-
+ Wesley,Hoedt, Wesley Hoedt,D,southampton,13,13,360,0,0,1,6,2,0,5,5,0,3,0,0,-
+ Manolo,Gabbiadini, Manolo Gabbiadini,F,southampton,12,4,318,1,0,8,19,0,0,4,5,1,3,0,0,-
+ Angus,Gunn, Angus Gunn,G,southampton,12,12,1080,0,0,0,0,0,0,2,0,0,0,0,0,-
+ Josh,Sims, Josh Sims,M,southampton,7,2,210,0,1,1,5,0,0,5,1,1,3,0,0,-
+ Michael,Obafemi, Michael Obafemi,F,southampton,6,1,135,1,1,2,6,1,0,3,3,1,2,0,0,-
+ Sam,Gallagher, Sam Gallagher,F,southampton,4,0,29,0,0,0,0,0,0,1,4,0,0,0,0,-
+ Steven,Davis, Steven Davis,M,southampton,3,1,90,0,1,0,0,0,0,0,1,0,2,0,0,-
+ Callum,Slattery, Callum Slattery,M,southampton,3,1,110,0,0,0,2,0,0,3,4,0,1,0,0,-
+ Fraser,Forster, Fraser Forster,G,southampton,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,-
+ Kayne,Ramsay, Kayne Ramsay,D,southampton,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,-
+ Christian,Eriksen, Christian Eriksen,M,tottenham,35,30,2231,8,12,33,86,3,0,11,13,3,158,71,0,-
+ Toby,Alderweireld, Toby Alderweireld,D,tottenham,34,33,2213,0,0,6,17,3,0,2,5,1,13,0,0,-
+ Hugo,Lloris, Hugo Lloris,G,tottenham,33,33,2520,0,0,0,0,0,0,2,0,0,0,0,0,-
+,Lucas Moura, Lucas Moura,M,tottenham,32,25,1352,10,0,19,45,3,0,34,12,14,42,1,0,-
+ Son,Heung-min, Son Heung-min,F,tottenham,31,23,1790,12,6,29,73,2,1,14,10,20,44,5,0,-
+ Moussa,Sissoko, Moussa Sissoko,M,tottenham,29,27,2072,0,3,3,15,2,0,18,22,4,46,0,0,-
+ Harry,Kane, Harry Kane,F,tottenham,28,27,1623,17,4,50,103,5,0,35,22,10,26,0,2,-
+ Kieran,Trippier, Kieran Trippier,D,tottenham,27,26,1572,1,3,3,8,2,0,16,13,5,212,70,0,-
+ Ben,Davies, Ben Davies,D,tottenham,27,20,1470,0,0,1,14,2,0,12,12,0,53,4,0,-
+ Harry,Winks, Harry Winks,M,tottenham,26,17,1288,1,0,2,9,4,0,11,11,2,12,1,0,-
+ Danny,Rose, Danny Rose,D,tottenham,26,20,1358,0,3,2,15,5,0,35,18,1,104,19,0,-
+ Dele,Alli, Dele Alli,M,tottenham,25,22,1470,5,2,19,40,4,0,15,19,3,30,2,0,-
+ Davinson,Sanchez, Davinson Sanchez,D,tottenham,23,22,1430,1,1,3,12,2,0,10,17,0,0,0,0,-
+ Jan,Vertonghen, Jan Vertonghen,D,tottenham,22,22,1328,1,0,2,15,3,0,6,9,1,34,0,0,-
+ Eric,Dier, Eric Dier,M,tottenham,20,18,815,3,0,3,9,4,0,3,13,0,9,1,0,-
+ Fernando,Llorente, Fernando Llorente,F,tottenham,20,6,670,1,3,5,23,2,0,6,11,5,3,0,0,-
+ Erik,Lamela, Erik Lamela,F,tottenham,19,9,809,4,2,12,30,2,0,11,17,1,41,20,0,-
+ Victor,Wanyama, Victor Wanyama,M,tottenham,13,4,455,1,0,2,7,2,0,7,7,0,3,0,0,-
+ Juan,Foyth, Juan Foyth,D,tottenham,12,10,889,1,0,1,4,3,1,9,16,0,5,0,0,-
+ Mousa,Dembele, Mousa Dembele,M,tottenham,10,7,82,0,0,0,1,1,0,0,3,0,1,0,0,-
+ Serge,Aurier, Serge Aurier,D,tottenham,8,6,459,0,2,1,4,1,0,1,13,1,28,0,0,-
+ Oliver,Skipp, Oliver Skipp,M,tottenham,8,2,215,0,0,0,2,0,0,3,3,0,0,0,0,-
+ Kyle,Walker-Peters, Kyle Walker-Peters,D,tottenham,6,4,374,0,3,0,1,1,0,10,4,1,7,0,0,-
+ Paulo,Gazzaniga, Paulo Gazzaniga,G,tottenham,3,3,90,0,0,0,0,0,0,0,0,0,0,0,0,-
+ Vincent,Janssen, Vincent Janssen,F,tottenham,3,0,36,0,0,2,3,0,0,0,2,1,1,0,0,-
+ Michel,Vorm, Michel Vorm,G,tottenham,2,2,-,0,0,0,0,0,0,-,-,0,0,0,-,-
+ Georges-Kevin,Nkoudou, Georges-Kevin Nkoudou,M,tottenham,1,0,4,0,1,0,0,0,0,1,0,0,2,0,0,-
+ Ben,Foster, Ben Foster,G,watford,38,38,2610,0,0,1,3,1,0,9,2,0,1,2,0,-
+ Craig,Cathcart, Craig Cathcart,D,watford,36,35,2290,3,0,5,11,2,0,6,12,1,5,0,0,-
+ Abdoulaye,Doucoure, Abdoulaye Doucoure,M,watford,35,34,2252,5,4,17,49,7,0,15,27,2,24,2,0,-
+ Roberto,Pereyra, Roberto Pereyra,M,watford,33,33,2034,6,2,22,57,3,0,21,19,2,66,15,0,-
+ Etienne,Capoue, Etienne Capoue,M,watford,33,33,2138,1,2,3,15,14,1,45,33,0,14,3,0,-
+ Troy,Deeney, Troy Deeney,F,watford,32,28,1829,9,5,29,64,4,1,22,29,11,16,1,1,-
+ Will,Hughes, Will Hughes,M,watford,32,31,1701,2,4,9,31,5,0,50,34,0,32,4,0,-
+ Gerard,Deulofeu, Gerard Deulofeu,F,watford,30,26,1995,10,4,22,60,3,0,10,13,35,93,8,0,-
+ Isaac,Success, Isaac Success,F,watford,30,9,860,1,1,11,25,4,0,40,17,12,19,1,0,-
+ Andre,Gray, Andre Gray,F,watford,29,13,756,7,2,17,35,2,0,2,7,17,22,0,0,-
+ Kiko,Femenia, Kiko Femenia,D,watford,29,22,1811,1,1,2,6,1,0,10,13,3,81,5,0,-
+ Jose,Holebas, Jose Holebas,D,watford,28,27,1679,3,6,6,18,12,1,8,25,2,218,115,0,-
+ Adrian,Mariappa, Adrian Mariappa,D,watford,26,20,1796,0,0,1,8,3,0,4,18,0,3,0,0,-
+ Christian,Kabasele, Christian Kabasele,D,watford,21,19,925,0,0,1,7,2,0,9,13,0,2,0,0,-
+ Daryl,Janmaat, Daryl Janmaat,D,watford,18,17,1001,0,2,1,9,3,0,1,8,1,72,0,0,-
+ Ken,Sema, Ken Sema,M,watford,17,9,707,1,2,5,11,1,0,6,12,1,19,3,0,-
+ Adam,Masina, Adam Masina,D,watford,14,11,907,0,0,0,3,5,0,7,16,0,33,18,0,-
+ Tom,Cleverley, Tom Cleverley,M,watford,13,4,469,1,0,2,4,2,0,4,7,1,4,2,0,-
+ Nathaniel,Chalobah, Nathaniel Chalobah,M,watford,9,3,262,0,0,1,2,2,0,3,6,0,1,0,0,-
+ Domingos,Quina, Domingos Quina,M,watford,8,3,335,1,0,1,5,0,0,5,6,0,6,0,0,-
+ Miguel,Britos, Miguel Britos,D,watford,3,2,185,0,0,0,0,0,0,1,3,0,1,0,0,-
+ Marc,Navarro, Marc Navarro,D,watford,2,1,0,0,0,0,0,0,0,0,0,0,5,0,0,-
+ Stefano,Okaka, Stefano Okaka,F,watford,2,0,22,0,0,0,2,1,0,1,1,0,0,0,0,-
+ Ben,Wilmot, Ben Wilmot,D,watford,2,0,24,0,0,0,0,0,,0,0,0,0,0,0,-
+ Lukasz,Fabianski, Lukasz Fabianski,G,west ham,38,38,2610,0,0,0,0,0,0,5,0,0,0,0,0,-
+,Felipe Anderson, Felipe Anderson,M,west ham,36,36,2320,9,4,24,59,3,0,37,16,5,174,47,0,-
+ Declan,Rice, Declan Rice,M,west ham,34,34,2509,2,0,5,22,4,0,8,14,1,9,0,0,-
+ Michail,Antonio, Michail Antonio,M,west ham,33,22,1725,6,3,23,63,3,0,37,28,10,64,0,0,-
+ Robert,Snodgrass, Robert Snodgrass,M,west ham,33,25,1841,2,5,7,29,10,0,36,30,3,198,112,0,-
+ Issa,Diop, Issa Diop,D,west ham,33,33,2340,1,0,5,12,4,0,13,16,3,0,0,0,-
+ Mark,Noble, Mark Noble,M,west ham,31,29,1740,5,5,8,17,6,1,25,15,1,31,4,4,-
+ Marko,Arnautovic, Marko Arnautovic,F,west ham,28,24,1368,10,4,31,61,3,0,7,21,22,45,0,0,-
+ Pablo,Zabaleta, Pablo Zabaleta,D,west ham,26,23,1551,0,1,1,7,4,0,22,12,2,62,0,0,-
+ Javier,Hernandez, Javier Hernandez,F,west ham,25,14,1164,7,2,16,35,2,0,28,9,12,14,0,0,-
+ Angelo,Ogbonna, Angelo Ogbonna,D,west ham,24,20,1690,1,1,5,14,2,0,7,13,0,1,1,0,-
+ Pedro,Obiang, Pedro Obiang,M,west ham,24,12,764,0,1,1,14,0,0,8,11,2,10,1,0,-
+ Fabian,Balbuena, Fabian Balbuena,D,west ham,23,23,1204,1,0,2,18,2,0,0,10,0,2,2,0,-
+ Arthur,Masuaku, Arthur Masuaku,D,west ham,23,19,1125,0,1,2,5,2,0,3,6,0,46,0,0,-
+ Aaron,Cresswell, Aaron Cresswell,D,west ham,20,18,1410,0,1,1,11,1,0,10,1,1,77,10,0,-
+ Grady,Diangana, Grady Diangana,M,west ham,17,6,553,0,1,3,10,0,0,7,4,1,19,1,0,-
+ Lucas,Perez, Lucas Perez,F,west ham,15,4,381,3,0,3,10,0,0,3,2,3,10,0,0,-
+ Ryan,Fredericks, Ryan Fredericks,D,west ham,15,12,816,1,0,3,5,5,0,8,5,0,30,0,0,-
+ Andy,Carroll, Andy Carroll,F,west ham,12,3,455,0,0,6,14,2,0,9,11,3,2,0,0,-
+ Manuel,Lanzini, Manuel Lanzini,M,west ham,10,8,689,1,1,4,11,2,0,6,5,0,15,6,0,-
+ Andriy,Yarmolenko, Andriy Yarmolenko,F,west ham,9,5,-,2,0,3,9,2,0,-,-,1,18,0,-,-
+ Jack,Wilshere, Jack Wilshere,M,west ham,8,4,55,0,1,1,2,2,0,2,1,0,5,2,0,-
+ Carlos,Sanchez, Carlos Sanchez,M,west ham,7,2,23,0,0,0,3,0,0,0,0,0,2,0,0,-
+ Samir,Nasri, Samir Nasri,M,west ham,5,3,245,0,2,0,3,0,0,2,3,3,8,1,0,-
+ Ben,Johnson, Ben Johnson,M,west ham,1,1,63,0,0,0,0,0,0,0,0,0,0,0,0,-
+ Xande,Silva, Xande Silva,F,west ham,1,0,17,0,0,0,1,0,0,0,0,0,1,0,0,-
+ Raul,Jimenez, Raul Jimenez,F,wolves,38,36,2376,13,7,38,113,4,0,31,30,33,47,0,2,-
+ Matt,Doherty, Matt Doherty,D,wolves,38,35,2375,4,5,18,44,5,0,19,23,4,97,0,0,-
+ Joao,Moutinho, Joao Moutinho,M,wolves,38,35,2244,1,8,3,19,4,0,28,39,0,211,156,0,-
+ Conor,Coady, Conor Coady,D,wolves,38,38,2610,0,0,0,0,5,0,8,8,0,2,3,0,-
+ Rui,Patricio, Rui Patricio,G,wolves,37,37,2520,0,0,0,0,0,0,1,0,0,0,0,0,-
+ Willy,Boly, Willy Boly,D,wolves,36,36,2358,4,0,6,22,2,1,11,25,2,3,0,0,-
+ Ruben,Neves, Ruben Neves,M,wolves,35,34,2199,4,3,17,73,8,0,14,22,0,36,2,2,-
+ Ryan,Bennett, Ryan Bennett,D,wolves,34,34,2250,1,0,4,15,12,0,7,20,1,4,0,0,-
+ Diogo,Jota, Diogo Jota,F,wolves,33,29,1653,9,5,25,58,11,0,38,26,6,52,0,0,-
+ Jonny,Castro, Jonny Castro,D,wolves,33,32,2032,1,1,7,26,6,0,23,15,5,54,0,0,-
+ Adama,Traore, Adama Traore,M,wolves,29,8,703,1,1,7,22,1,0,17,12,7,47,0,0,-
+ Morgan Gibbs,White, Morgan Gibbs White,M,wolves,26,5,617,0,1,1,7,1,0,5,7,2,20,10,0,-
+ Helder,Costa, Helder Costa,F,wolves,25,16,717,1,2,7,26,3,0,10,13,5,53,6,0,-
+ Ivan,Cavaleiro, Ivan Cavaleiro,F,wolves,23,6,626,3,1,4,12,1,0,5,11,6,63,16,0,-
+ Leander,Dendoncker, Leander Dendoncker,D,wolves,19,17,1469,2,0,10,17,1,0,13,11,1,13,0,0,-
+ Romain,Saiss, Romain Saiss,D,wolves,19,12,1128,2,0,5,11,7,0,9,25,0,9,0,0,-
+ Ruben,Vinagre, Ruben Vinagre,D,wolves,17,7,638,0,0,4,6,1,0,8,8,1,46,2,0,-
+ Leo,Bonatini, Leo Bonatini,F,wolves,7,0,33,0,1,1,8,0,0,0,0,0,5,0,0,-
+ John,Ruddy, John Ruddy,G,wolves,1,1,90,0,0,0,0,0,0,0,0,0,0,0,0,-
